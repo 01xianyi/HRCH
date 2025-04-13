@@ -1,4 +1,5 @@
 # HRCH
+![image](https://github.com/user-attachments/assets/f7b65d7d-772f-424b-8304-fe5d86ada3a8)
 
 ## Setup
 
