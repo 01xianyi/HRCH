@@ -21,9 +21,9 @@ For MIRFlickr-25K with 128-bit:
 
 ```bash
 python HRCH.py --data_name mirflickr25k --alpha 0.4 --bit 128 --max_epochs 15 \
-  --train_batch_size 224 --eval_batch_size 224 --lr 0.00005 --optimizer Adam \
-  --shift 0.1 --margin 0.2 --tau 0.12 --ins 0.8 --pro 1.0 --entroy 0.05 \
-  --qua 0.01 --cluster_num 5000,4000,3000,2000 --layers 2,2,4,2 --ld 1
+  --train_batch_size 256 --eval_batch_size 256 --lr 0.00005 --optimizer Adam \
+  --shift 0.1 --margin 0.1 --tau 0.12 --ins 0.6 --pro 1.0 --entroy 0.01 \
+  --qua 0.01 --cluster_num 5000,4000,3000,2000 --layers 2,2,4,2 --seed 123 --ld 1
 ```
 
 ## Evaluation
