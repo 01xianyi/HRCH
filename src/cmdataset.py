@@ -1,9 +1,3 @@
-# Copyright (c) Facebook, Inc. and its affiliates.
-# All rights reserved.
-#
-# This source code is licensed under the license found in the
-# LICENSE file in the root directory of this source tree.
-#
 
 """
 MIRFlickr25K
@@ -163,7 +157,7 @@ def IAPR_TC12(partition):
     inx = np.arange(len(imgs))
     np.random.shuffle(inx)
     imgs, texts, labels = imgs[inx], texts[inx], labels[inx]
-    # 数据划分
+    # divide
     test_size = 2000
 
     if 'test' in partition.lower():
