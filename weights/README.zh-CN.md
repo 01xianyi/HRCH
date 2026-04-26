@@ -10,4 +10,3 @@
 weights/revcol_tiny_1k.pth
 ```
 
-这个文件通过 Git LFS 进行版本管理。
