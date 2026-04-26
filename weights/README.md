@@ -10,4 +10,3 @@ The main pretrained file is:
 weights/revcol_tiny_1k.pth
 ```
 
-This file is tracked with Git LFS.
