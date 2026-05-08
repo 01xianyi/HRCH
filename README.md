@@ -61,10 +61,6 @@ The repository already includes the corresponding loading logic, so keeping thes
 
 For more detailed dataset placement instructions, see [data/DATASET_LOADING.md](data/DATASET_LOADING.md).
 
-## Model Weights
-
-The pretrained weight files are stored under `weights/`. See [weights/README.md](weights/README.md) for details about the weight layout used in this repository.
-
 ## Training Example
 
 ```bash
