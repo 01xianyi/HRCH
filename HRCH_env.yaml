@@ -200,8 +200,8 @@ dependencies:
       - timm==1.0.26
       - tinycss2==1.4.0
       - tokenizers==0.22.2
-      - torch==2.8.0+cu128
-      - torchvision==0.23.0+cu128
+      - torch==2.8.0
+      - torchvision==0.23.0
       - tornado==6.5.1
       - traitlets==5.14.3
       - transformers==4.57.6
